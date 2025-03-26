@@ -1,0 +1,116 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+.env/
+.env
+venv/
+.venv/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# Pyre type checker
+.pyre/
+
+# Environments
+.env
+.envrc
+*.env
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyright type checker
+.pyright/
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Backup files
+*.bak
+*~
+
+# JetBrains (PyCharm) settings
+.idea/
+
+# Test coverage results
+.coverage
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Logs and databases
+*.log
+*.sql
+
+# Ignore system temporary files
+*.tmp
+*.temp
+
+# Ignore keys or credentials
+*.pem
+*.key
