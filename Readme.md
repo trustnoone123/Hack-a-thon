@@ -118,3 +118,7 @@ pytesseract.pytesseract.tesseract_cmd = 'PATH_TO_TESSERACT'
 - Contact: [Your Contact Information]
 ```
 
+Flowchart:
+```
+https://www.mermaidchart.com/raw/f7153834-4aa2-4bf0-85ee-4b0746173c0d?theme=light&version=v0.1&format=svg
+```
