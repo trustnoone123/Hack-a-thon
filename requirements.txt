@@ -1,0 +1,10 @@
+base64
+openai
+streamlit
+opencv-python
+pytesseract
+numpy
+pandas
+neo4j
+roboflow
+python-dotenv
